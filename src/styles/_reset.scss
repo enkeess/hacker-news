@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+	transition: all 0.3s;
+}
+
+h1 {
+	font-size: 50px;
+	line-height: 55px;
+}
+
+h2 {
+	font-size: 30px;
+	line-height: 25px;
+}
+
+
+div, p, a {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: $text;
+}
+
+button {
+	border: none;
+	outline: none;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	color: $text-dark;
+	font-weight: 500;
+	display: inline-block;
+}
+
+
+ul,li {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+}

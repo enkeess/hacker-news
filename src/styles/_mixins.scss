@@ -1,0 +1,6 @@
+@mixin btn_outline($prop) {
+	background: none;
+	border: solid 1px $prop;
+	color: $prop;
+	box-shadow: none;
+}
