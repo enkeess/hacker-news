@@ -33,3 +33,15 @@
 - Роутинг выполнен с использованием `React Router v6`
 - Пакетный менеджер `npm`. Устанавливаются необходимые пакеты командой `npm install`
 - Приложение должно запускаться по адресу `localhost:3000` командой `npm start`
+
+
+## Внешний вид приложения 
+
+Домашняя страница - список новостей
+
+<img width="800" alt="home-page" src="https://user-images.githubusercontent.com/37826099/173855375-371ed675-b59c-418a-9f47-b397259ad40d.png">
+
+
+Страница новости 
+
+<img width="800" alt="story-page" src="https://user-images.githubusercontent.com/37826099/173855733-b963cd51-4c1c-4a16-a4d1-3a891ee07bed.png">
